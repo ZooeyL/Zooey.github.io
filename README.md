@@ -2,7 +2,7 @@
 
 # Python - Jupyter Notebooks
 
-*Reddit Sarcasm - Machine Learning and Statistical Analysis*
+**Reddit Sarcasm - Machine Learning and Statistical Analysis**
 
 [nbviewer](https://nbviewer.jupyter.org/github/ZooeyL/Reddit-Sarcasm-/blob/master/Logistic%20Regression%2C%20Text%20Processing%2C%20and%20Visual%20Analysis%20on%20Reddit%20Sarcasm.ipynb)
 
@@ -24,7 +24,7 @@ Exploring the data with visualizations and using machine learning (decision tree
 
 [nbviewer](https://nbviewer.jupyter.org/github/ZooeyL/World-Happiness-Report/blob/master/Project%207%20-%20Happiness%20Score.ipynb)
 
-Given the happiness rating from the World 
+I analyze the happiness score assigned by the World Happiness Report, which scores countries based on variables such as economy, family, health, trust, freedom, etc. By looking at correlations between variables and seeing trends within regions, there's quite a lot of useful information embedded in these scores. 
 
 *Kaggle User Survey - Exploratory Analysis* 
 
