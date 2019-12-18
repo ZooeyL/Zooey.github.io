@@ -15,4 +15,18 @@ Using Kaggle's self-annotated (marked with /s) Reddit comments, I applied logist
 
 Time-series analysis of Los Angeles pollutants from year 2000 to 2015, with graphs uploaded on both Tableau and Jupyter. I explain the current state of Los Angeles using AQI measurements and relationship between pollutants. 
 
-[nbviewer]()
+*Iowa House Price & Airbnb Price Prediction in Los Angeles 
+[nbviewer](https://nbviewer.jupyter.org/github/ZooeyL/Iowa-House-Price/blob/master/Iowa%20House%20Price%20Regression%20Analysis.ipynb)
+
+Exploring the data with visualizations and using machine learning (decision trees, linear regression, and K-nearest neighbors) to determine optimal pricing for hosts' accommodations and house price predictions. 
+
+*World Happiness Report* 
+[nbviewer](https://nbviewer.jupyter.org/github/ZooeyL/World-Happiness-Report/blob/master/Project%207%20-%20Happiness%20Score.ipynb)
+
+Given the happiness rating from the World 
+
+*Kaggle User Survey - Exploratory Analysis* 
+[nbviewer](https://nbviewer.jupyter.org/github/ZooeyL/Kaggle-User-Survey/blob/master/User%20Survey%20From%20Kaggle%20.ipynb)
+
+Given Kaggle's user information, I try to find useful insight about its demographics. 
+
