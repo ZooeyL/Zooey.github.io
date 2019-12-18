@@ -35,7 +35,7 @@ Given Kaggle's user information, I try to find useful insight about its demograp
 
 # SQL 
 
-**SQL Queries on BigQueryDatasets 
+**SQL Queries on BigQueryDatasets**
 
 [link](https://github.com/ZooeyL/SQL-Queries-)
 
