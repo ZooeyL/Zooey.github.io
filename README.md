@@ -41,3 +41,7 @@ Given Kaggle's user information, I try to find useful insight about its demograp
 
 Data sets ranging from Stack Overflow, census data, Google Analytics, New York bike trips, etc. explored with complex queries. The work is uploaded on GitHub and visualized in Tableau.
 
+
+# Tableau 
+
+[link](https://public.tableau.com/profile/zendry.lee#!/) 
