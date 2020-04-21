@@ -1,8 +1,10 @@
 # Zooey's Portfolio - Data Analytics, Machine Learning, DSP, etc. 
 
 # C++ 
+
 **Audio Distortion and Reverb Plug-In**
-![JUCE plug-in picture](https://imgur.com/a/H8Z7Zkac)
+
+![picture](https://imgur.com/a/H8Z7Zkac)
 An audio plug-in made with JUCE and C++. The distortion side can add white noise (generated using Box Muller transform), lower the bit depth, and control the index modulus rate which holds the sample values for multiple positions. The reverb is something I made using JUCE's own reverb library. 
 
 
