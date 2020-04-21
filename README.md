@@ -4,7 +4,7 @@
 
 **Audio Distortion and Reverb Plug-In**
 
-![Picture](https://imgur.com/dRN8u8a)
+![Picture](https://i.imgur.com/dRN8u8a.png)
 An audio plug-in made with JUCE and C++. The distortion side can add white noise (generated using Box Muller transform), lower the bit depth, and control the index modulus rate which holds the sample values for multiple positions. The reverb is something I made using JUCE's own reverb library. 
 
 
